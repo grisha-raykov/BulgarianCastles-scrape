@@ -1,4 +1,4 @@
-# BulgarianCastles-scrape
+# BulgarianCastles-scrape (Work in Progress)
 
 A Python-based web scraping project that collects and stores data about Bulgarian castles from a WordPress website into a PostgreSQL database.
 
@@ -13,7 +13,7 @@ This project scrapes information about Bulgarian castles from a dedicated WordPr
 - PostgreSQL database storage
 - Modular structure for easy maintenance and expansion
 
-## Future Plans
+## Planned Features (Not Yet Implemented)
 
 We have exciting plans to enhance this project:
 
